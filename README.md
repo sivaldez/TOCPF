@@ -5,3 +5,5 @@ The it computes the TOC and derived Cummulative Distribution Function(CDF), Dens
 and first derivative or difference of the PF, depending on the kind of TOC curve, continuous or discrete respectively. 
 In addition it has a procedure for smoothing the curves, a rasterization of an array (probabilities or simulations), a simulation procedure for predicting (simulate a random presence according to the PF),
 and computation of bootstrap intervals.
+
+For usage example see tocusage.py
